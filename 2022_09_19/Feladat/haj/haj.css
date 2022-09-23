@@ -1,0 +1,44 @@
+a{
+    color: #b97a5a;
+}
+a:visited{
+    color: #c3c3c3;
+}
+a:active{
+    color: #c3c3c3; 
+}
+a:hover{
+     color: #c3c3c3;
+}
+body{
+    font-family: arial;
+    max-width: 800px;
+    width: auto;
+    margin: 0 auto;
+}
+.kozepre{
+    text-align: center;
+}
+.fejlec{
+    max-width: 800px;
+    width: auto;
+}
+h1,h2{
+    color: #b97a5a; 
+}
+.dolt{
+    font-style: italic;
+}
+.felkover{
+    font-weight: bold;
+}
+.kep{
+    float: right;
+    margin-left: 10px;
+    border: 1px solid black;
+    max-width: 300px;
+    width: auto;
+}
+p{
+    text-align: justify;
+}

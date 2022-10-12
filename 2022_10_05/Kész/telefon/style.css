@@ -1,0 +1,58 @@
+body {
+  background-color: rgb(111, 111, 111);
+  background-image: url("phone-back.jpg");
+  background-repeat:no-repeat;
+  background-position: center;
+}
+
+#kep{
+  float: right;
+  height: 250px;
+}
+
+p {
+  margin: 5px 5px 5px 100px;
+  text-align: justify;
+  text-indent: 30px;
+  line-height: 110%;
+}
+
+#tartalom {
+  background-color: rgba(255, 255, 255, 0.8);
+  background-image: url(phone-cord.png);
+  background-position: left;
+  background-repeat: repeat-y;
+  width: 800px;
+  padding: 40px;
+  margin-left: auto;
+  margin-top: 40px;
+  margin-right: auto;
+}
+
+#bal{
+  background-color: white;
+  float: left;
+}
+
+li {
+  margin-left: 100px;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+span {
+  color: blue;
+}
+
+h1, h2{
+  font-variant: small-caps;
+  margin-left: 100px;
+  font-style: italic;
+}
+
+a:hover{
+  color: red;
+}

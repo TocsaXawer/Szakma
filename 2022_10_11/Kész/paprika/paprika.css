@@ -1,0 +1,74 @@
+body{
+    background-color: papayawhip;
+    color: saddlebrown;
+    width: 1000px;
+    margin: 0px auto;
+}
+
+h1{
+    color: #383838;
+}
+
+#keret{
+    width: 1000px;
+}
+
+#fejlec{
+    width: 1000px;
+    background-image: url('szines.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding: 20px;
+}
+
+#menu{
+    width: 250px;
+    float:  left;
+    padding: 10px;
+}
+
+#tartalom{
+    width: 650px;
+    float: right;
+    padding: 20px;
+}
+
+li{
+    list-style-image: url('chili-pepper-icon.gif');
+    padding: 10px;
+    background-color: #f8f8f8;
+    margin: 10px;
+}
+
+p{
+    text-align: justify;
+}
+
+table{
+    width: 300px;
+    margin: auto;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+td, tr{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+.jobb_td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 120px;
+    text-align: center;
+}
+
+.zold{
+    background-color: greenyellow;
+}
+
+.medium{
+    background-color: coral;
+}
+.hard{
+    background-color: plum;
+}
